@@ -4,4 +4,4 @@
 
 [Git Convention](https://github.com/KBCrossFIT/manual/blob/main/GitConvention.md#git-commit-convention)
 
-[Code Convention]
+[Code Convention](https://github.com/KBCrossFIT/manual/blob/main/CodeConvention.md)
