@@ -5,6 +5,7 @@
 - `main` 브랜치는 항상 배포가 가능한 상태의 브랜치
 - `dev` 브랜치에 모든 협업들을 Pull Request 하고 Merge한다.
 - `자신의 이름 브랜치`를 생성하여 작업한다.
+![](https://velog.velcdn.com/images/wxxhyeong/post/3e5c8f3a-a1d0-4de7-9985-a55cb0dbee8c/image.png)
 
 # Git Commit Convention
 ##### 커밋 메시지 구조
